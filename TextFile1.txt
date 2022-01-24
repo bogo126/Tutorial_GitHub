@@ -1,2 +1,3 @@
 Wpis inicjalny !!!
 Wpis drugi - NIP: 8341806180;
+Wpis trzeci - REGON: 55551200456;
